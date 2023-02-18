@@ -1,5 +1,4 @@
 <h1 width="100%"><img src="https://raw.githubusercontent.com/itsanjali010/itsanjali010/main/assets/banner.png"></h1>
-https://raw.githubusercontent.com/itsanjali010/itsanjali010/main/assets/banner.png
 
 <img align="right" width="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
